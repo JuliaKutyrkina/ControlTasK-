@@ -1,0 +1,15 @@
+D:\GB\c sharp\hello console\ControlTask\bin\Debug\net6.0\ControlTask.exe
+D:\GB\c sharp\hello console\ControlTask\bin\Debug\net6.0\ControlTask.deps.json
+D:\GB\c sharp\hello console\ControlTask\bin\Debug\net6.0\ControlTask.runtimeconfig.json
+D:\GB\c sharp\hello console\ControlTask\bin\Debug\net6.0\ControlTask.dll
+D:\GB\c sharp\hello console\ControlTask\bin\Debug\net6.0\ControlTask.pdb
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.csproj.AssemblyReference.cache
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.AssemblyInfoInputs.cache
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.AssemblyInfo.cs
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.csproj.CoreCompileInputs.cache
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.dll
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\refint\ControlTask.dll
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.pdb
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ControlTask.genruntimeconfig.cache
+D:\GB\c sharp\hello console\ControlTask\obj\Debug\net6.0\ref\ControlTask.dll
